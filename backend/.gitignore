@@ -1,0 +1,5 @@
+./venv
+/venv
+/__pycache__
+/exercise/__pycache__
+/api/__pycache__
